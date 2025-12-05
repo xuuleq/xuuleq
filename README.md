@@ -5,7 +5,7 @@
 
 ---
 
-<img width="35%" align="right" src="./my-picture.jpg" />
+<img width="35%" style="border-radius: 3%" align="right" src="./my-picture.jpg" />
 
 ###
 ###
