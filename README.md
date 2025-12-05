@@ -5,7 +5,7 @@
 
 ---
 
-<img width="35%" align="right" src="./developer.jpg" />
+<img width="35%" align="right" src="./my-picture.jpg" />
 
 ###
 ###
